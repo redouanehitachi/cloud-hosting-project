@@ -1,6 +1,7 @@
 import ArticleItem from "@/components/articles/ArticleItem";
 import Link from "next/link";
 
+
 import { Article } from "@/utils/types";
 
 const articles=async()=>{
